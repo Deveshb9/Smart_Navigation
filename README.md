@@ -1,1 +1,2 @@
-# Smart_Navigation
+# Smart-Navigator
+IOT Project
